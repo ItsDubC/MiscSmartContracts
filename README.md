@@ -1,1 +1,3 @@
-# MiscSmartContracts
+# Miscellaneous Smart Contracts
+
+Just practicing  :)
